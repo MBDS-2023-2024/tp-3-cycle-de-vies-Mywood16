@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">MainActivity</string>
+    <string name="app_name">My Application</string>
+    <string name="btn_home_compute">Faire un calcul</string>
+    <string name="first_operand">Premier opérande</string>
+    <string name="second_operand">Deuxième opérande</string>
+    <string name="btn_compute">Calculer</string>
+    <string name="btn_emergency_call">Appel d\'urgence</string>
+    <string name="btn_google_search">Recherche Google</string>
+    <string name="btn_share_message">Partager un message</string>
+    <string name="btn_launch_maps">Lancer Google Maps</string>
+
 </resources>
